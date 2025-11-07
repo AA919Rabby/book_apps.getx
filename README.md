@@ -10,9 +10,11 @@ This project is part of my Flutter learning and portfolio.
 - Responsive design for mobile
 
 ## Download APK
-[Click here to download the app](https://drive.google.com/uc?export=download&id=1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6)
+[Click here to download the app](https://github.com/yourusername/yourrepo/raw/main/book_app.apk)
 
 Or use a button:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/yourusername/yourrepo/raw/main/book_app.apk)
+
+
 

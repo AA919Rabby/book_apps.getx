@@ -9,12 +9,9 @@ This project is part of my Flutter learning and portfolio.
 - State management using **GetX**
 - Responsive design for mobile
 
-## Download APK
-[Click here to download the app](https://github.com/yourusername/yourrepo/raw/main/book_app.apk)
+###Download APK
 
-Or use a button:
-
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/yourusername/yourrepo/raw/main/book_app.apk)
+Clicke here  https://drive.google.com/file/d/1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6/view?usp=drive_link
 
 
 

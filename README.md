@@ -1,13 +1,12 @@
 # book_app (GetX)
 
-A Flutter app built with **GetX** for managing and reading poems and books.  
+A Flutter app built with **GetX** for managing and reading poems.  
 This project is part of my Flutter learning and portfolio.
 
 ## Features
-- Beautiful book list & poem UI
-- View detailed info about each book
+- Beautiful poems list & poem UI
+- View detailed info about each poems
 - State management using **GetX**
-- Organized folder structure (MVC pattern)
 - Responsive design for mobile
 
 ## Download APK
@@ -16,3 +15,4 @@ This project is part of my Flutter learning and portfolio.
 Or use a button:
 
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6)
+

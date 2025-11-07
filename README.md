@@ -11,7 +11,7 @@ This project is part of my Flutter learning and portfolio.
 
 ###Download APK
 
-Clicke here  https://drive.google.com/file/d/1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6/view?usp=drive_link
+Click here  https://drive.google.com/file/d/1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6/view?usp=drive_link
 
 
 

@@ -9,6 +9,13 @@ This project is part of my Flutter learning and portfolio.
 - State management using **GetX**
 - Responsive design for mobile
 
+
+
+###Schreenshots link: 
+https://photos.app.goo.gl/hLrMQD9aQzy7CNXK7
+
+
+
 ###Download APK
 
 Click here  https://drive.google.com/file/d/1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6/view?usp=drive_link

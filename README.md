@@ -11,8 +11,6 @@ This project is part of my Flutter learning and portfolio.
 
 
 
-###Schreenshots link: 
-https://photos.app.goo.gl/hLrMQD9aQzy7CNXK7
 
 
 

@@ -13,10 +13,21 @@ This project is part of my Flutter learning and portfolio.
 
 
 
+### Screenshots
+  Home Schreen [Screenshot_20260113_183447.jpg]
+  Drawer       [Screenshot_20260113_183451.jpg]
+  Poem Details [Screenshot_20260113_183500.jpg]
+
+
+
+
+
+
 
 ###Download APK
 
 Click here  https://drive.google.com/file/d/1VxjbWchrYt28jX0mjnyT05N6SUG3sGG6/view?usp=drive_link
+
 
 
 
